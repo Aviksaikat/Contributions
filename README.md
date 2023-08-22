@@ -9,6 +9,7 @@
 ### Opened
 - https://github.com/ApeWorX/ape/issues/1611
 - https://github.com/ApeWorX/ape/issues/1610
+- https://github.com/ApeWorX/ape/issues/1615
 
 ### Merged
 - https://github.com/ApeWorX/ape/pull/1599
