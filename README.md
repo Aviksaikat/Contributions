@@ -10,6 +10,12 @@
 - https://github.com/ApeWorX/ape/issues/1611
 - https://github.com/ApeWorX/ape/issues/1610
 - https://github.com/ApeWorX/ape/issues/1615
+- https://github.com/ApeWorX/ape/issues/1619
+- https://github.com/ApeWorX/ape/issues/1620
+
+### On-going
+- https://github.com/ApeWorX/ape/pull/1618
+- https://github.com/ApeWorX/ape/pull/1617
 
 ### Merged
 - https://github.com/ApeWorX/ape/pull/1599
