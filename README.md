@@ -16,6 +16,7 @@
 ### On-going
 - https://github.com/ApeWorX/ape/pull/1618
 - https://github.com/ApeWorX/ape/pull/1617
+- https://github.com/ApeWorX/ape/pull/1702
 
 ### Merged
 - https://github.com/ApeWorX/ape/pull/1599
